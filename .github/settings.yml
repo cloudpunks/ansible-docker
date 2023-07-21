@@ -1,6 +1,6 @@
 ---
 repository:
-  name: docker
+  name: ansible-docker
   description: Ansible role to install and configure Docker container runtime
   topics: ansible, role, ansible-role, hacktoberfest
 
